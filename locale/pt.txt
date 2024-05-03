@@ -1,0 +1,52 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Barbearia por Assinatura - Manaus
+
+### Title
+tour.name = Barbearia Roots Tree
+
+## Skin
+
+### Button
+Button_2CE05050_3C5B_5390_41C6_2F0050324E64.label = CONHEÇA NOSSAS ASSINATURAS
+Button_2CE05050_3C5B_5390_41C6_2F0050324E64_mobile.label = CONHEÇA NOSSAS PLANOS
+
+### Multiline Text
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.070000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7400000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>LICENSED REAL ESTATE SALESPERSON</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3100000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3100000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>jhondoe@realestate.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3100000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.1999999999999993vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV></div>
+
+### Tooltip
+Button_4CC5476E_5ABB_CC4E_41D1_A04ABE17DA89.toolTip = CONFIGURAÇÕES
+Button_4CC5476E_5ABB_CC4E_41D1_A04ABE17DA89_mobile.toolTip = CONFIGURAÇÕES
+
+## Media
+
+### Title
+panorama_24848462_3CD8_F3B0_41BD_3A38B5978A53.label = IMG_20240426_085106_00_merged
+panorama_2A52C8AB_3CD8_B4B0_41C0_7BAE60FBC047.label = IMG_20240426_085203_00_merged
+panorama_305FF072_3B99_4D2D_41C7_DD3F296C6809.label = IMG_20240426_080757_00_merged
+panorama_3135DB23_3B99_5332_41A1_ADEEE7F881F1.label = IMG_20240426_081725_00_merged
+panorama_313657E5_3B99_3336_41A5_EE48E7876112.label = IMG_20240426_084211_00_merged
+panorama_3136931F_3B99_D312_41C7_0861992152D0.label = IMG_20240426_083058_00_merged
+panorama_3136D752_3B99_D36D_41C8_9BEC4CC42096.label = IMG_20240426_081944_00_merged
+panorama_3136EB89_3B99_73FE_41CB_CBA590DB77CC.label = IMG_20240426_083754_00_merged
+panorama_3136EEBA_3B99_3512_41A4_A1F6612E22A6.label = IMG_20240426_083153_00_merged
+video_2A642CD4_3CC9_EC90_41B6_8232AF40CBA4.label = IMG_8828
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_34C0064D_3BB8_F576_41BB_4A8F375A3907.toolTip = ENTRAR
+
+## Action
+
+### URL
+LinkBehaviour_25292058_3CCB_D390_41AD_A25E91639E28.source = https://wa.link/n1tfiy
+LinkBehaviour_2826FB87_3C79_B570_41C1_DDD5DE21DE49.source = https://celcash.celcoin.com.br/landingpage6683876/roots
+LinkBehaviour_29119E12_3CC8_EF90_41C6_D24D848EE84D.source = https://wa.link/n1tfiy
+LinkBehaviour_2A9FD425_3CB9_53B0_41C1_C2BD990CA5DE.source = https://www.instagram.com/seja_rootstree/
+LinkBehaviour_2BDD227F_3CB9_5790_41BF_7B89305A74F1.source = https://maps.app.goo.gl/kx8yoFDDL3YcmHhZ6
+LinkBehaviour_2DEA30AB_3C48_D4B0_41BA_041711FD3B31.source = https://celcash.celcoin.com.br/landingpage6683876/roots
