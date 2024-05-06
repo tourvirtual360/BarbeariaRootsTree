@@ -12,37 +12,36 @@ tour.name = Barbearia Roots Tree
 
 ### Button
 Button_2CE05050_3C5B_5390_41C6_2F0050324E64.label = CONHEÇA NOSSAS ASSINATURAS
-Button_2CE05050_3C5B_5390_41C6_2F0050324E64_mobile.label = CONHEÇA NOSSOS PLANOS
-Button_5C95FC6C_48C8_4BDD_4194_E3431CB151F2.label = Unidade Parque 10
-Button_5C95FC6C_48C8_4BDD_4194_E3431CB151F2_mobile.label = Unidade Parque 10
-Button_5C9A5C71_48C8_4BC7_41C1_57D911E13292.label = Unidade Morada do Sol
-Button_5C9A5C71_48C8_4BC7_41C1_57D911E13292_mobile.label = Unidade Morada do Sol
-Button_5C9ACC74_48C8_4BCD_41D2_36416E4749C3.label = Unidade SixtHair
-Button_5C9ACC74_48C8_4BCD_41D2_36416E4749C3_mobile.label = Unidade SixtHair
+Button_2CE05050_3C5B_5390_41C6_2F0050324E64_mobile.label = CONHEÇA NOSSAS ASSINATURAS
+Button_40B11DC9_4E70_B45F_41B7_3C0FBB1A0723.label = Escovaria SixtHair
+Button_40B11DC9_4E70_B45F_41B7_3C0FBB1A0723_mobile.label = Escovaria SixtHair
+Button_40BA7AE7_4E70_BC54_41CB_B4B49DABA36C.label = Barbearia Morada do Sol
+Button_40BA7AE7_4E70_BC54_41CB_B4B49DABA36C_mobile.label = Barbearia Morada do Sol
+Button_5C95FC6C_48C8_4BDD_4194_E3431CB151F2.label = Barbearia Parque 10
+Button_5C95FC6C_48C8_4BDD_4194_E3431CB151F2_mobile.label = Barbearia Parque 10
+Button_5E9C2ED3_4E90_544C_41B6_A2207A4E82C0.label = CONHEÇA NOSSAS UNIDADES
+Button_5E9C2ED3_4E90_544C_41B6_A2207A4E82C0_mobile.label = CONHEÇA NOSSAS UNIDADES
+
+### Multiline Text
+HTMLText_5DA34789_4E91_B4DC_41B6_B4D6E5D7279E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.5px;"><B>Você está em {{Title}}</B></SPAN></SPAN></DIV></div>
 
 ### Tooltip
 Button_5AEDA318_48F8_5D45_41D2_11FA66B9A978.toolTip = CONFIGURAÇÕES
 Button_5AEDA318_48F8_5D45_41D2_11FA66B9A978_mobile.toolTip = CONFIGURAÇÕES
-Button_5BF414B3_48F8_DB49_41D2_2E8485E238E3.toolTip = CONFIGURAÇÕES
-Button_5BF414B3_48F8_DB49_41D2_2E8485E238E3_mobile.toolTip = CONFIGURAÇÕES
 
 ## Media
 
 ### Title
-panorama_24848462_3CD8_F3B0_41BD_3A38B5978A53.label = IMG_20240426_085106_00_merged
-panorama_2A52C8AB_3CD8_B4B0_41C0_7BAE60FBC047.label = IMG_20240426_085203_00_merged
-panorama_305FF072_3B99_4D2D_41C7_DD3F296C6809.label = IMG_20240426_080757_00_merged
-panorama_3135DB23_3B99_5332_41A1_ADEEE7F881F1.label = IMG_20240426_081725_00_merged
-panorama_313657E5_3B99_3336_41A5_EE48E7876112.label = IMG_20240426_084211_00_merged
-panorama_3136931F_3B99_D312_41C7_0861992152D0.label = IMG_20240426_083058_00_merged
-panorama_3136D752_3B99_D36D_41C8_9BEC4CC42096.label = IMG_20240426_081944_00_merged
-panorama_3136EB89_3B99_73FE_41CB_CBA590DB77CC.label = IMG_20240426_083754_00_merged
-panorama_3136EEBA_3B99_3512_41A4_A1F6612E22A6.label = IMG_20240426_083153_00_merged
-panorama_421AB1F2_48C8_3CC5_41D1_1E2D4F6C1A42.label = IMG_20240426_102101_00_merged
-panorama_421AB67F_48C8_47BA_41A7_BDCC48B9D340.label = IMG_20240426_094400_00_merged
-panorama_421ACAC4_48C8_4CCE_41B7_C20FB540179A.label = IMG_20240426_094113_00_merged
-panorama_42234E0E_48CF_C75D_41C6_82B74DA12C73.label = IMG_20240426_093859_00_merged
-panorama_44EB0E0F_48CF_C75A_418A_0E4A2DDC029C.label = IMG_20240426_093807_00_merged
+panorama_24848462_3CD8_F3B0_41BD_3A38B5978A53.label = Unidade Parque 10
+panorama_2A52C8AB_3CD8_B4B0_41C0_7BAE60FBC047.label = Unidade Parque 10
+panorama_305FF072_3B99_4D2D_41C7_DD3F296C6809.label = Unidade Parque 10
+panorama_3135DB23_3B99_5332_41A1_ADEEE7F881F1.label = Unidade Parque 10
+panorama_313657E5_3B99_3336_41A5_EE48E7876112.label = Unidade Parque 10
+panorama_3136931F_3B99_D312_41C7_0861992152D0.label = Unidade Parque 10
+panorama_3136D752_3B99_D36D_41C8_9BEC4CC42096.label = Unidade Parque 10
+panorama_3136EB89_3B99_73FE_41CB_CBA590DB77CC.label = Unidade Parque 10
+panorama_3136EEBA_3B99_3512_41A4_A1F6612E22A6.label = Unidade Parque 10
+panorama_5F979FDF_4E90_D473_41B2_53AFDE0E7E8C.label = Unidade Parque 10
 video_2A642CD4_3CC9_EC90_41B6_8232AF40CBA4.label = IMG_8828
 
 ## Hotspot
@@ -55,4 +54,7 @@ HotspotPanoramaOverlayArea_34C0064D_3BB8_F576_41BB_4A8F375A3907.toolTip = ENTRAR
 ### URL
 LinkBehaviour_25292058_3CCB_D390_41AD_A25E91639E28.source = https://wa.link/n1tfiy
 LinkBehaviour_2DEA30AB_3C48_D4B0_41BA_041711FD3B31.source = https://celcash.celcoin.com.br/landingpage6683876/roots
-LinkBehaviour_51B7BCBD_48CB_C4BE_41CA_1C280A6059E9.source = https://celcash.celcoin.com.br/landingpage6683876/roots
+LinkBehaviour_5AB45679_4EF0_543C_41B2_E6FCA4E54FDC.source = https://wa.link/62oywo
+LinkBehaviour_5BBF9389_4EF1_ACDC_41D3_53E5235BD98A.source = https://maps.app.goo.gl/5H7Rpj478uaPKfNr8
+LinkBehaviour_5D5131A6_4E8F_ACD4_41B9_D6BE7A31E3D9.source = https://www.instagram.com/seja_rootstree/
+LinkBehaviour_5D97C7E6_4E90_D455_4193_E9320A2D33EF.source = https://celcash.celcoin.com.br/landingpage6683876/roots
