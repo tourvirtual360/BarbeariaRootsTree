@@ -14,9 +14,9 @@ tour.name = Barbearia Roots Tree
 Button_2CE05050_3C5B_5390_41C6_2F0050324E64.label = CONHEÇA NOSSAS ASSINATURAS
 Button_2CE05050_3C5B_5390_41C6_2F0050324E64_mobile.label = CONHEÇA NOSSAS ASSINATURAS
 Button_40B11DC9_4E70_B45F_41B7_3C0FBB1A0723.label = Escovaria SixtHair
-Button_40B11DC9_4E70_B45F_41B7_3C0FBB1A0723_mobile.label = Escovaria SixtHair
 Button_40BA7AE7_4E70_BC54_41CB_B4B49DABA36C.label = Barbearia Morada do Sol
-Button_40BA7AE7_4E70_BC54_41CB_B4B49DABA36C_mobile.label = Barbearia Morada do Sol
+Button_54EEC86D_4E90_7C54_41CE_E9A49FB7FC2C_mobile.label = Barbearia Morada do Sol
+Button_5718C4E6_4E93_D454_41BC_C2A457C876E9_mobile.label = Escovaria SixtHair
 Button_5C95FC6C_48C8_4BDD_4194_E3431CB151F2.label = Barbearia Parque 10
 Button_5C95FC6C_48C8_4BDD_4194_E3431CB151F2_mobile.label = Barbearia Parque 10
 Button_5E9C2ED3_4E90_544C_41B6_A2207A4E82C0.label = CONHEÇA NOSSAS UNIDADES
@@ -41,7 +41,7 @@ panorama_3136931F_3B99_D312_41C7_0861992152D0.label = Unidade Parque 10
 panorama_3136D752_3B99_D36D_41C8_9BEC4CC42096.label = Unidade Parque 10
 panorama_3136EB89_3B99_73FE_41CB_CBA590DB77CC.label = Unidade Parque 10
 panorama_3136EEBA_3B99_3512_41A4_A1F6612E22A6.label = Unidade Parque 10
-panorama_5F979FDF_4E90_D473_41B2_53AFDE0E7E8C.label = Unidade Parque 10
+panorama_561F981A_4E90_DBFD_419F_6B0E1A80525B.label = Unidade Parque 10
 video_2A642CD4_3CC9_EC90_41B6_8232AF40CBA4.label = IMG_8828
 
 ## Hotspot
@@ -54,6 +54,8 @@ HotspotPanoramaOverlayArea_34C0064D_3BB8_F576_41BB_4A8F375A3907.toolTip = ENTRAR
 ### URL
 LinkBehaviour_25292058_3CCB_D390_41AD_A25E91639E28.source = https://wa.link/n1tfiy
 LinkBehaviour_2DEA30AB_3C48_D4B0_41BA_041711FD3B31.source = https://celcash.celcoin.com.br/landingpage6683876/roots
+LinkBehaviour_5706FD6D_4E93_F454_41CD_78BFD474D56E.source = https://tourvirtual360.github.io/BarbeariaRootsTree_morada/
+LinkBehaviour_571924E7_4E93_D454_41D2_48636DCC6B4E.source = https://tourvirtual360.github.io/EscovariaSixtHair/
 LinkBehaviour_5AB45679_4EF0_543C_41B2_E6FCA4E54FDC.source = https://wa.link/62oywo
 LinkBehaviour_5BBF9389_4EF1_ACDC_41D3_53E5235BD98A.source = https://maps.app.goo.gl/5H7Rpj478uaPKfNr8
 LinkBehaviour_5D5131A6_4E8F_ACD4_41B9_D6BE7A31E3D9.source = https://www.instagram.com/seja_rootstree/
