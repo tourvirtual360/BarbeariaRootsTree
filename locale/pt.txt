@@ -23,7 +23,7 @@ Button_5E9C2ED3_4E90_544C_41B6_A2207A4E82C0.label = CONHEÇA NOSSAS UNIDADES
 Button_5E9C2ED3_4E90_544C_41B6_A2207A4E82C0_mobile.label = CONHEÇA NOSSAS UNIDADES
 
 ### Multiline Text
-HTMLText_5DA34789_4E91_B4DC_41B6_B4D6E5D7279E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.5px;"><B>Você está em {{Title}}</B></SPAN></SPAN></DIV></div>
+HTMLText_5DA34789_4E91_B4DC_41B6_B4D6E5D7279E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;"><B>Você está em {{Title}}</B></SPAN></SPAN></DIV></div>
 
 ### Tooltip
 Button_5AEDA318_48F8_5D45_41D2_11FA66B9A978.toolTip = CONFIGURAÇÕES
