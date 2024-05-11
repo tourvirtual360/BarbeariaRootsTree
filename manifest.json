@@ -1,9 +1,8 @@
 {
- "start_url": "index.htm",
- "theme_color": "#FFFFFF",
+ "name": "Barbearia Roots Tree",
  "description": "Barbearia por Assinatura - Manaus",
  "background_color": "#FFFFFF",
- "name": "Barbearia Roots Tree",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen"
+ "display": "fullscreen",
+ "start_url": "index.htm"
 }
