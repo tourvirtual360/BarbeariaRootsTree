@@ -53,11 +53,11 @@ HotspotPanoramaOverlayArea_34C0064D_3BB8_F576_41BB_4A8F375A3907.toolTip = ENTRAR
 
 ### URL
 LinkBehaviour_25292058_3CCB_D390_41AD_A25E91639E28.source = https://wa.link/n1tfiy
-LinkBehaviour_2DEA30AB_3C48_D4B0_41BA_041711FD3B31.source = https://celcash.celcoin.com.br/landingpage6683876/roots
+LinkBehaviour_2DEA30AB_3C48_D4B0_41BA_041711FD3B31.source = https://celcash.celcoin.com.br/landingpage6683876/rootsbarberconcept
 LinkBehaviour_410451C1_4FFB_A62D_41C5_1822D2DBE787.source = https://tourvirtual360.github.io/EscovariaSixtHair/
 LinkBehaviour_410AC0B2_4FF8_A66C_41D2_BFFD474E06AF.source = https://tourvirtual360.github.io/BarbeariaRootsTree_Morada/
 LinkBehaviour_5AB45679_4EF0_543C_41B2_E6FCA4E54FDC.source = https://wa.link/62oywo
 LinkBehaviour_5BBF9389_4EF1_ACDC_41D3_53E5235BD98A.source = https://maps.app.goo.gl/5H7Rpj478uaPKfNr8
 LinkBehaviour_5D5131A6_4E8F_ACD4_41B9_D6BE7A31E3D9.source = https://www.instagram.com/seja_rootstree/
-LinkBehaviour_5D97C7E6_4E90_D455_4193_E9320A2D33EF.source = https://celcash.celcoin.com.br/landingpage6683876/roots
+LinkBehaviour_5D97C7E6_4E90_D455_4193_E9320A2D33EF.source = https://celcash.celcoin.com.br/landingpage6683876/rootsbarberconcept
 LinkBehaviour_7D4A3565_6599_FB7E_41D3_612CDBA2780A.source = https://tourvirtual360.github.io/BarbeariaRootsTree_Morada/
